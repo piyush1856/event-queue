@@ -1,0 +1,5 @@
+aiokafka>=0.8.1
+kafka-python>=2.0.2
+prometheus-client>=0.16.0
+python-json-logger>=2.0.7
+typing-extensions>=4.0.0 
