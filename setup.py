@@ -21,12 +21,12 @@ setup(
         ]
     },
     python_requires=">=3.8",
-    author="Open Source Team",
-    author_email="opensource@fynd.com",
+    author="Piyush Tyagi",
+    author_email="piyushtyagi28@hotmail.com",
     description="Async event queue implementation using Kafka",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-org/event-queue",
+    url="https://github.com/piyush1856/event-queue",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
