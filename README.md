@@ -17,6 +17,12 @@ An async event queue implementation using Kafka for Python applications.
 pip install event-queue
 ```
 
+You can also install the package directly from the repository:
+
+```bash
+pip install git+https://github.com/your-org/event-queue@main
+```
+
 ## Usage
 
 ### Producer
@@ -141,4 +147,4 @@ The library exposes the following Prometheus metrics:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
